@@ -9,6 +9,6 @@
  *  Copyright (c) 2014-2015 Xing fan
 """
 from __future__ import division as __division__
-import interferometer_zenike, zernike, tools, mplot3d
+from . import interferometer_zenike, zernike, tools, mplot3d
 import warnings as __warnings__
 __warnings__.filterwarnings("ignore")

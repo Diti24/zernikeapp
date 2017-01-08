@@ -1,7 +1,7 @@
 import numpy as __np__
 import matplotlib.pyplot as __plt__
-import zernike as __zernike__
-import tools as __tools__
+from . import zernike as __zernike__
+from . import tools as __tools__
 from matplotlib import cm as __cm__
 
 
