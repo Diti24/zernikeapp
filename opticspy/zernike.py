@@ -1,6 +1,6 @@
 from __future__ import division as __division__
 import numpy as __np__
-#from opticspy import interferometer_zenike as __interferometer__
+from opticspy import interferometer_zenike as __interferometer__
 from numpy import cos as __cos__
 from numpy import sin as __sin__
 from numpy import sqrt as __sqrt__
